@@ -28,8 +28,8 @@ GEM
     multipart-post (2.0.0)
     oauth (0.4.7)
     pg (0.17.1)
-    rack (1.5.2)
-    rack-protection (1.5.3)
+    rack (1.6.11)
+    rack-protection (1.5.5)
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
